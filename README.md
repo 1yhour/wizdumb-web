@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 # wizdumb-web
+# wizdumb-web
