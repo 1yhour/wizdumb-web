@@ -9,8 +9,8 @@ export const Footer = () => {
             <img
               src={logo}
               alt="Wizdumb"
-              height='70px'
-              className="mb-3 bg-white rounded-3 p-2"
+              height='60px'
+              className="mb-2 bg-white rounded-3 p-2"
             />
             <p className="text-light opacity-75 small">
               Empowering businesses through intelligent software development and
